@@ -56,3 +56,4 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "rails-html-sanitizer", ">= 1.0.4"
 gem "loofah", ">= 2.2.1"
+gem "rack", ">= 2.0.6"
